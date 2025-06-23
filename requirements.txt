@@ -1,0 +1,6 @@
+Flask
+PyPDF2
+python-docx
+openai
+transformers
+torch
